@@ -53,7 +53,7 @@ Port 8247
 #IgnoreRhosts yes
 
 # To disable tunneled clear text passwords, change to "no" here!
-#PasswordAuthentication yes
+PasswordAuthentication no
 #PermitEmptyPasswords no
 
 # Change to "yes" to enable keyboard-interactive authentication.  Depending on
